@@ -12,6 +12,5 @@ int main() {
     luas = 0.5 * alas * tinggi;
 
     printf("Luas segitiga = %.2f\n", luas);
-
     return 0;
 }
